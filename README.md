@@ -72,11 +72,12 @@ $password = '';
 
 ## 📷 Ảnh minh họa
 
-_(Bạn có thể thêm ảnh chụp dashboard và các trang quản lý tại đây)_
+_(Bạn có thể clone về chạy và thưởng thức dự án của chúng tôi nhé !)_
 
 ## 👨‍💻 Tác giả
 
 - **Tên:** HwangSeon
+- **Zalo Hỗ Trợ:** 0979783601
 - **Email:** hoangsonvq1@gmail.com
 - **GitHub:** [https://github.com/HwangSeon](https://github.com/HwangSeon)
 
